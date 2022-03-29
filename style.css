@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,500,700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Arizonia&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;600&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -85,10 +86,11 @@ body {
 }
 
 .resume .resume_left .regular {
-  color: #fdfbfb;
+  color: #ffffff;
   font-weight: 800;
-  font-size: 20px;
-  /* font-family: "Arizonia", cursive; */
+  font-size: 16px;
+  font-family: "Nunito Sans", sans-serif;
+  font-style: italic;
 }
 
 .resume .resume_item {
@@ -153,7 +155,7 @@ body {
   width: 60%;
   margin: 0 5px;
   height: 5px;
-  background: #08aac7;
+  background: #688e94;
   position: relative;
 }
 
@@ -274,7 +276,7 @@ body {
   margin-left: 100px;
 }
 .margin-left-2 {
-  margin-left: 60px;
+  margin-left: 65px;
 }
 /* .personl_details_container {
   background-color: #f1eded;
