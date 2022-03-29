@@ -239,12 +239,12 @@ body {
 }
 
 .resume .resume_right .resume_hobby ul li {
-  width: 80px;
-  height: 80px;
-  border: 2px solid #08aac7;
-  border-radius: 50%;
-  position: relative;
-  color: #08aac7;
+    width: 70px;
+    height: 70px;
+    border: 2px solid #08aac7;
+    border-radius: 50%;
+    position: relative;
+    color: #08aac7;
 }
 
 .resume .resume_right .resume_hobby ul li i {
