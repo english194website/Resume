@@ -47,8 +47,8 @@ body {
   height: auto;
   display: flex;
   margin: 50px 20px;
-  justify-content: center;
-  align-content: center;
+/*   justify-content: center;
+  align-content: center; */
 }
 /* .resume .resume_left {
         width: 280px;
